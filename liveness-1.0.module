@@ -3,7 +3,7 @@
   "component": {
     "group": "com.ksf",
     "module": "liveness",
-    "version": "1.0",
+    "version": "3.0",
     "attributes": {
       "org.gradle.status": "release"
     }
