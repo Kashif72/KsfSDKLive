@@ -9,8 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.ksf</groupId>
   <artifactId>liveness</artifactId>
-  <version>1.0</version>
-  <packaging>aar</packaging>
+  <version>3.0</version>
   <dependencies>
     <dependency>
       <groupId>androidx.camera</groupId>
