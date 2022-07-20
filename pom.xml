@@ -6,19 +6,9 @@
   <version>2.0</version>
   <dependencies>
     <dependency>
-      <groupId>id.zelory</groupId>
-      <artifactId>compressor</artifactId>
-      <version>3.0.1</version>
-    </dependency>
-    <dependency>
       <groupId>com.squareup.okhttp3</groupId>
       <artifactId>okhttp</artifactId>
       <version>4.10.0</version>
-    </dependency>
-    <dependency>
-      <groupId>androidx.databinding</groupId>
-      <artifactId>viewbinding</artifactId>
-      <version>7.2.1</version>
     </dependency>
   </dependencies>
 </project>
